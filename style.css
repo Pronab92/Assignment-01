@@ -4,18 +4,39 @@
     box-sizing: border-box;
 }
 body{
-    font-family: ;
-    font-size:14px;
-    font-weight: normal;
-    background: url(assets/Group.png);
-    border: 2px solid green;
-    height: 500px;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: auto;
-
+    width:1350px;
+    height: 5000px;
+    border:5px solid red;
+    margin: 0 auto;
 }
 header{
+    background: url(assets/Hero-bg.png);
+    width:1300px;
+    border:5px solid blue;
+    height:500px;
+}
+header img{
    
 }
-
+.text{
+    text-align: center;
+}
+.bold{
+    font-weight: bolder;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+button{
+    width:200px;
+    height:50px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background: black;
+    color:white;
+    font-weight: 600;
+    line-height: 25px;
+}
+.plain{
+    margin-top: 10px;
+    font-weight: normal;
+}
