@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: ;
+    font-size:14px;
+    font-weight: normal;
+    background: url(assets/Group.png);
+    border: 2px solid green;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: auto;
+
+}
+header{
+   
+}
+
