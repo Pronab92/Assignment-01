@@ -12,7 +12,9 @@ body{
 header{
     background: url(assets/Hero-bg.png);
     width:1350px;
+    /*
     border:5px solid blue;
+    */
     height:500px;
 }
 header img{
@@ -47,4 +49,16 @@ iframe{
 h2{margin-top: 30px;}
 .feedback{
     background: url(assets/handshake.jpg);
+   
+width: 1044px;
+height: 186px;
+margin: 5px auto;
+margin-top: 10px;
+
+}
+.inspiration{
+
+}
+.inner{
+    margin: 0 auto;
 }
